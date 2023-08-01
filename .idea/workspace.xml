@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e610af9-e2be-4b59-a16a-60c7f61469de" name="변경" comment="자료구조_step01_스택과 큐" />
+    <list default="true" id="5e610af9-e2be-4b59-a16a-60c7f61469de" name="변경" comment="자료구조_step01_스택과 큐">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/자료구조/스택과큐.md" beforeDir="false" afterPath="$PROJECT_DIR$/자료구조/스택과큐.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
