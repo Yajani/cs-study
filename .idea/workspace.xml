@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e610af9-e2be-4b59-a16a-60c7f61469de" name="변경" comment="자료구조_step01_스택과 큐 완료">
-      <change afterPath="$PROJECT_DIR$/자료구조/02.linked list.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자료구조/03.트리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/자료구조/04.red-black 트리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/자료구조/스택과큐.md" beforeDir="false" afterPath="$PROJECT_DIR$/자료구조/01.스택과큐.md" afterDir="false" />
-    </list>
+    <list default="true" id="5e610af9-e2be-4b59-a16a-60c7f61469de" name="변경" comment="이동우 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690888111427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="이동우 commit">
+      <created>1690889288053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690889288053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +110,7 @@
     <MESSAGE value="✨ initial commit" />
     <MESSAGE value="자료구조_step01_스택과 큐" />
     <MESSAGE value="자료구조_step01_스택과 큐 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="자료구조_step01_스택과 큐 완료" />
+    <MESSAGE value="이동우 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="이동우 commit" />
   </component>
 </project>
